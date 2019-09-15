@@ -1,6 +1,13 @@
 {
   "name": "custom-form",
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/ahmednageebmahmoud/CustomForm.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "Ahmed Nageeb Majmoud"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
